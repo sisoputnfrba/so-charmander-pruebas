@@ -1,6 +1,6 @@
 nombre=Blue
 simbolo=$
-hojaDeViaje=[Azul,Verde]
+hojaDeViaje=[Azul,Home]
 obj[Azul]=[Z]
-obj[Verde]=[R]
+obj[Home]=[R]
 vidas=1
